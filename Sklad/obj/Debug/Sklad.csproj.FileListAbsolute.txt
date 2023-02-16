@@ -1,0 +1,8 @@
+C:\Marian - 9D\Sklad\Sklad\bin\Debug\Sklad.exe.config
+C:\Marian - 9D\Sklad\Sklad\bin\Debug\Sklad.exe
+C:\Marian - 9D\Sklad\Sklad\bin\Debug\Sklad.pdb
+C:\Marian - 9D\Sklad\Sklad\obj\Debug\Sklad.csproj.AssemblyReference.cache
+C:\Marian - 9D\Sklad\Sklad\obj\Debug\Sklad.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Sklad\Sklad\obj\Debug\Sklad.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Sklad\Sklad\obj\Debug\Sklad.exe
+C:\Marian - 9D\Sklad\Sklad\obj\Debug\Sklad.pdb
